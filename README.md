@@ -3,6 +3,13 @@
 Multi-platform video/audio downloader — TikTok, Instagram, Facebook, X, Pinterest, LinkedIn, Reddit.
 Built with Flask + yt-dlp, same base pattern as StreamDrop.
 
+How to Use It:
+- Download and run the `.exe` installer.
+- Follow the installation wizard.
+- Select a custom installation location if desired.
+- Complete the installation.
+- Done! Enjoy using the Grey Box Downloader by simply double click on the icon.
+
 ## Run locally (web app)
 
 ```
